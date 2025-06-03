@@ -1,4 +1,4 @@
 # kamal-demo
 This is my First Repository.
 <br>
-Author Name: R.Kamal
+Author Name: R.Kamal (Raparthi Kamal)
